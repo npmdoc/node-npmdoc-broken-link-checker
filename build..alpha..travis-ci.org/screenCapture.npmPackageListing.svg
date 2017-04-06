@@ -1,0 +1,29 @@
+<svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="414" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-06 00:47:17 +0000    80968 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-06 00:47:17 +0000    16381 byte  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-06 00:47:17 +0000       60 byte  bin/blc</tspan>
+<tspan x="10" y="74">  3.  2017-04-06 00:47:17 +0000     2771 byte  changelog.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-06 00:47:17 +0000    10102 byte  lib/cli.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-06 00:47:17 +0000      365 byte  lib/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-06 00:47:17 +0000     3420 byte  lib/internal/checkUrl.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-06 00:47:17 +0000      658 byte  lib/internal/defaultOptions.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-06 00:47:17 +0000      672 byte  lib/internal/getRobotsTxt.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-06 00:47:17 +0000     7281 byte  lib/internal/linkObj.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-06 00:47:17 +0000      467 byte  lib/internal/matchUrl.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-06 00:47:17 +0000     1000 byte  lib/internal/messages.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-06 00:47:17 +0000     1354 byte  lib/internal/parseHtml.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-06 00:47:17 +0000      977 byte  lib/internal/parseOptions.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-06 00:47:17 +0000     6559 byte  lib/internal/scrapeHtml.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-06 00:47:17 +0000      552 byte  lib/internal/simpleResponse.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-06 00:47:17 +0000     2015 byte  lib/internal/streamHtml.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-06 00:47:17 +0000     2446 byte  lib/internal/tags.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-06 00:47:17 +0000     5602 byte  lib/public/HtmlChecker.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-06 00:47:17 +0000     3915 byte  lib/public/HtmlUrlChecker.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-06 00:47:17 +0000     6854 byte  lib/public/SiteChecker.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-06 00:47:17 +0000     2723 byte  lib/public/UrlChecker.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-06 00:47:17 +0000     1111 byte  license</tspan>
+<tspan x="10" y="394"> 23.  2017-04-06 00:47:17 +0000     3683 byte  package.json</tspan>
+</text>
+</svg>
