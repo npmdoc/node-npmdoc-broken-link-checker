@@ -2000,7 +2000,21 @@ Scans an HTML document to find broken links.
 {
 	return this.urlChecker.__getCache();
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+	return false;
+};
+
+
+
+HtmlChecker.prototype.__getCache = function()
+{
+	return this.urlChecker.<span class="apidocCodeKeywordSpan">__getCache</span>();
+};
+
+
+
+//::: PRIVATE FUNCTIONS
+...</pre></li>
     </ul>
 
 
@@ -2378,7 +2392,21 @@ Scans the HTML content at each queued URL to find broken links.
 {
 	return this.htmlChecker.__getCache();
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+	return false;
+};
+
+
+
+HtmlChecker.prototype.__getCache = function()
+{
+	return this.urlChecker.<span class="apidocCodeKeywordSpan">__getCache</span>();
+};
+
+
+
+//::: PRIVATE FUNCTIONS
+...</pre></li>
     </ul>
 
 
@@ -3234,7 +3262,21 @@ Requests each queued URL to determine if they are broken.
 {
 	return this.cache;
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+	return false;
+};
+
+
+
+HtmlChecker.prototype.__getCache = function()
+{
+	return this.urlChecker.<span class="apidocCodeKeywordSpan">__getCache</span>();
+};
+
+
+
+//::: PRIVATE FUNCTIONS
+...</pre></li>
     </ul>
 
 
