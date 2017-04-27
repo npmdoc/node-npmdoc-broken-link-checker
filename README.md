@@ -1,6 +1,6 @@
 # npmdoc-broken-link-checker
 
-#### api documentation for  [broken-link-checker (v0.7.4)](https://github.com/stevenvachon/broken-link-checker)  [![npm package](https://img.shields.io/npm/v/npmdoc-broken-link-checker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-broken-link-checker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-broken-link-checker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-broken-link-checker)
+#### basic api documentation for  [broken-link-checker (v0.7.4)](https://github.com/stevenvachon/broken-link-checker)  [![npm package](https://img.shields.io/npm/v/npmdoc-broken-link-checker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-broken-link-checker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-broken-link-checker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-broken-link-checker)
 
 #### Find broken links, missing images, etc in your HTML.
 
